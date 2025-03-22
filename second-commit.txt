@@ -1,1 +1,2 @@
-this is second commit. intended to smoothly commit the second time, after first time git asks for credentials
+this is second commit. intended to smoothly commit the second time, after first time git asks for credentials.
+==> this line commes from feature branch
